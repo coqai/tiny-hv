@@ -20,7 +20,7 @@ Full system virtualization emulates a real physical machine. Paravirtualization,
 
 The Exception Levels (ELs) in Non-Secure and Secure states are shown in the following figure:
 
-![img](../pic/el-state.png)
+![img](./pic/el-state.png)
 
 Hypervisor running at EL2 has access to several controls for virtualization:
 

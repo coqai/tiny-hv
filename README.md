@@ -23,6 +23,6 @@ Some future features later in mind:
 
 # Repository structure
 
-The `doc` folder contains the chapters of the ebook. The `src` folder contains the source code corresponding to each chapter. Thus, for instance, `src/01_elx` contains the source code of the chapter `4`.
+The `doc` folder contains the chapters of the ebook. The `src` folder contains the source code corresponding to each chapter. Thus, for instance, `src/02_el3toel2` contains the source code of the chapter `02`.
 
 Happy virtualizing!
